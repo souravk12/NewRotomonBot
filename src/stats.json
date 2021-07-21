@@ -1,0 +1,24 @@
+{
+    "users": {
+        "1482778942": {
+            "name": "Unown",
+            "username": "souravkkk"
+        },
+        "1608141072": {
+            "name": "Chand",
+            "username": "Denialsu"
+        }
+    },
+    "groups": {
+        "-1001274059507": {
+            "title": "Pogo Guys",
+            "username": null,
+            "members": 1387
+        },
+        "-1001171174807": {
+            "title": "<?bot_testzone> // @souravkkk",
+            "username": null,
+            "members": 24
+        }
+    }
+}
