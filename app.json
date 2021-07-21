@@ -7,13 +7,13 @@
     "repository": "https://github.com/souravk12/NewRotomonBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "1944006860:AAGoOL5ZcjheJUITsVfbjb6aDjpjmJXrb7Q"
+            "description": "Your Telegram Bot Token Here"
         },
         "API_ID": {
-            "description": "7667689"
+            "description": "Your Telegram API ID Here"
         },
         "API_HASH": {
-            "description": "54d4452ce654ee19a4b8ba1b8e2a9644"
+            "description": "Your Telegram API Hash Here"
         },
         "SUDO": {
             "description": "Put here list of id's -  (not usernames) for users.",
