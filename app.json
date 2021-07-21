@@ -1,0 +1,27 @@
+{
+    "name": "NewRotomonBot",
+    "description": "NewRotomonBot is a bot which acts as a helper for trainers on Telegram. You can check information of Pokemon, Showdown usage and organize Raids as quickly as possible, without ever leaving the app",
+    "keywords": [
+        "NewRotomonBot"
+    ],
+    "repository": "https://github.com/souravk12/NewRotomonBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "1944006860:AAGoOL5ZcjheJUITsVfbjb6aDjpjmJXrb7Q"
+        },
+        "API_ID": {
+            "description": "7667689"
+        },
+        "API_HASH": {
+            "description": "54d4452ce654ee19a4b8ba1b8e2a9644"
+        },
+        "SUDO": {
+            "description": "Put here list of id's -  (not usernames) for users.",
+            "value": "1482778942, 1608141072"
+        }
+    },
+    "addons": [],
+    "buildpacks": [{
+        "url": "heroku/python"
+    }]
+}
